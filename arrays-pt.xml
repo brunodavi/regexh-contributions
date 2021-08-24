@@ -17,8 +17,8 @@
         <item>\\s Espaço em Branco</item>
         <item>\\S Não Espaço em Branco</item>
         <item>Âncoras</item>
-        <item>^ Início da linha</item>
-        <item>$ Fim da linha</item>
+        <item>^ Início da linha/string</item>
+        <item>$ Fim da linha/string</item>
     </array>
 
     <array name="dataHelpRight">
